@@ -4,11 +4,6 @@ __Objetivo:__
 
 O presente repositorio visa abordar de forma auto-explicativa e orientada os principais topicos de programacao em python, sendo assim um guia para a programacao na linguagem servindo tambem como repostorio para esclarecimento de duvidas durante o desenvolvimento. 
 
-__Arquivos do Repositorio:__
-- Programacao Imperativa com Python.
-- Programacao Funcional com Python.
-- Programacao Orientada a Objetos com Python.
-
 __Autor:__  
    - Bruno Priantti.
     
