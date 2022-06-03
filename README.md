@@ -2,7 +2,7 @@
 
 __Objetivo:__   
 
-O presente repositorio visa abordar de forma auto-explicativa e orientada os principais topicos de programacao em python, sendo assim um guia para a programacao na linguagem servindo tambem como repostorio para esclarecimento de duvidas durante o desenvolvimento. 
+O presente repositório visa abordar de forma auto-explicativa e orientada os principais tópicos de programação em python, sendo assim um guia para a programação na linguagem servindo também como repositório para esclarecimento de dúvidas durante o desenvolvimento.
 
 __Autor:__  
    - Bruno Priantti.
